@@ -728,6 +728,15 @@ members:
         - contact@bostonhacks.io
         - sponsor@bostonhacks.io
     status: active
+   - name: Millie Zhu
+    github: 
+      username: milliezhu09
+      role: member
+    mailgun:
+      email: jzhu2023@bu.edu
+      routes:
+        - contact@bostonhacks.io
+    status: active
 mailgun:
   routes:
     - name: contact@bostonhacks.io
